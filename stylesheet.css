@@ -1,0 +1,25 @@
+.title {
+    background-color:aquamarine;
+    text-align: center;
+}
+
+.ina{
+    background-color: lightgray;
+    text-align: center;
+}
+
+.row {
+    display:flex;
+}
+
+.left {
+    width: 50%;
+    text-align: right;
+    }
+
+.right {
+    width: 50%;
+    text-align: left;
+    margin-left:10px;
+    margin-bottom: 5px;
+}
